@@ -1,0 +1,6 @@
+{
+  "Below Median": [0, 0, 255],
+  "Neomedian": [192, 192, 192],
+  "Above Median": [0, 255, 0],
+  "Far Above Median": [0, 128, 0]
+}

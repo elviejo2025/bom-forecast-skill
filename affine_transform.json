@@ -1,0 +1,14 @@
+{
+  "source_coords": {
+    "badu": [389, 7],
+    "nw_cape": [39, 226],
+    "byron_bay": [505, 262],
+    "sec": [409, 449]
+  },
+  "target_coords": {
+    "badu": [652, 9],
+    "nw_cape": [112, 346],
+    "byron_bay": [830, 403],
+    "sec": [683, 692]
+  }
+}

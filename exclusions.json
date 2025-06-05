@@ -1,0 +1,5 @@
+{
+  "forecast_exclusions_recent": [[227, 172], [572, 566], [847, 1]],
+  "forecast_exclusions_early": [[222, 158], [560, 548], [840, 10]],
+  "decile_exclusions": [[220, 150], [540, 530], [830, 15]]
+}

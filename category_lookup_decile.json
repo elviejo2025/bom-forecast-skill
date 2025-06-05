@@ -1,0 +1,7 @@
+{
+  "Very Much Below Average": [128, 0, 0],
+  "Below Average": [255, 0, 0],
+  "Neomedian": [255, 255, 255],
+  "Above Average": [0, 0, 255],
+  "Very Much Above Average": [0, 0, 128]
+}
